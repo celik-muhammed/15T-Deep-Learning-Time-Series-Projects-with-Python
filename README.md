@@ -32,7 +32,7 @@
 <!--     <td><a href="https://www.kaggle.com/code/clkmuhammed/credit-score-classification-logreg-rf-xgb-deploy/notebook">02. Kaggle: Credit Score Classification</a></td> -->
   </tr>
 </tbody>
-<thead align='left'><tr><th colspan=2>2. NeuralProphet Model Time Series forecasting</th></tr></thead>
+<thead align='left'><tr><th colspan=2><img src="https://github.com/ourownstory/neural_prophet/blob/main/docs/source/images/np_favicon.png" alt="MLflow" height=24 valign="bottom"> 2. NeuralProphet Model Time Series forecasting</th></tr></thead>
 <thead><tr><th>1.1 Univariate Models</th><th>1.2 Multivariate Models</th></tr></thead>
 <tbody>
   <tr>
