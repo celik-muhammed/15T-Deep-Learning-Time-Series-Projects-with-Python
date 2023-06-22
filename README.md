@@ -56,6 +56,8 @@
 <div style="display: flex; justify-content: center; text-align: center;">
   <h1 align=center>15T Deep Learning Time Series Projects with Python</h1>
   <img src="https://i.imgur.com/hHfqnyN.png" alt="Time-series forecasting main solutions" style="height: 350px; width: 80%;">
+  <img src="https://i.ibb.co/wzWpmY3/download.png" alt="Time-series forecasting main solutions" style="height: 350px; width: 80%;">
+  <img src="https://i.imgur.com/UQLhuJs.gif" alt="Time-series forecasting main solutions" style="height: 550px; width: 80%;">
 </div>
 
 <h4>When it comes to analyzing time series data, different types of neural networks can be used, including Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Recurrent Neural Networks (RNNs). The choice of which network to use depends on the specific characteristics and requirements of the time series data.</h4>
