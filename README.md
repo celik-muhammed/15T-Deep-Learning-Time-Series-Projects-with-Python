@@ -36,7 +36,7 @@
 <thead><tr><th>1.1 Univariate Models</th><th>1.2 Multivariate Models</th></tr></thead>
 <tbody>
   <tr>
-    <td rowspan="2"><a href="https://github.com/celik-muhammed/DL_Time_Series_Deploy-Perrin-Freres-Monthly-Champagne-Sales-Prediction/blob/master/README.md">01. DL_Time_Series_Deploy Perrin Freres Monthly Champagne Sales Prediction</a></td>
+    <td rowspan="2"><a href="https://github.com/celik-muhammed/DL_Time_Series_Deploy-Perrin-Freres-Monthly-Champagne-Sales-Prediction/blob/master/README.md#dl_time_series_deploy-perrin-freres-monthly-champagne-sales-prediction-1">01. DL_Time_Series_Deploy Perrin Freres Monthly Champagne Sales Prediction</a></td>
     <td><a href="#"></a></td>
   </tr>
   <tr>
